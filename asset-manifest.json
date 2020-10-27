@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hisp_teaser/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hisp_teaser/static/js/main.20e6b56d.chunk.js",
+    "main.js.map": "/hisp_teaser/static/js/main.20e6b56d.chunk.js.map",
+    "runtime-main.js": "/hisp_teaser/static/js/runtime-main.aae51125.js",
+    "runtime-main.js.map": "/hisp_teaser/static/js/runtime-main.aae51125.js.map",
+    "static/js/2.cb180eeb.chunk.js": "/hisp_teaser/static/js/2.cb180eeb.chunk.js",
+    "static/js/2.cb180eeb.chunk.js.map": "/hisp_teaser/static/js/2.cb180eeb.chunk.js.map",
+    "static/js/3.74d26dcf.chunk.js": "/hisp_teaser/static/js/3.74d26dcf.chunk.js",
+    "static/js/3.74d26dcf.chunk.js.map": "/hisp_teaser/static/js/3.74d26dcf.chunk.js.map",
+    "index.html": "/hisp_teaser/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/hisp_teaser/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.cb180eeb.chunk.js.LICENSE.txt": "/hisp_teaser/static/js/2.cb180eeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aae51125.js",
+    "static/js/2.cb180eeb.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.20e6b56d.chunk.js"
+  ]
+}
